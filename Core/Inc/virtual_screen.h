@@ -1,0 +1,8 @@
+//
+// Created by yichu on 2026/5/16.
+//
+
+#ifndef STM32_HISTORYLINE_VIRTUAL_H
+#define STM32_HISTORYLINE_VIRTUAL_H
+
+#endif //STM32_HISTORYLINE_VIRTUAL_H
