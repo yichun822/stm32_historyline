@@ -10,6 +10,7 @@
 - Lib\ ... ：存外部库
 - Core\:
   - message: 网络处理 **需要协助!!!**
+  - user_interaction: 获取并解析用户输入 **需要协助**
   - virtual_screen: 把消息解析并存入虚拟显存
   - shader: 渲染逻辑
   - control: 由于是裸机直接写的（也不需要rtos）所以把中断和主循环写这里，便于查找

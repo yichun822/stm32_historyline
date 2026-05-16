@@ -51,6 +51,7 @@ target_sources(${CMAKE_PROJECT_NAME} PRIVATE
         Core/Src/shader.c
         Core/Src/virtual_screen.c
         Core/Src/control.c
+        Core/Src/user_interaction.c
 )
 
 # Add include paths
