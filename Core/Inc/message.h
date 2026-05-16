@@ -5,7 +5,7 @@
 #ifndef STM32_HISTORYLINE_MESSAGE_H
 #define STM32_HISTORYLINE_MESSAGE_H
 
-#endif //STM32_HISTORYLINE_MESSAGE_H
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
@@ -28,3 +28,5 @@ char* Net_MessageBuildData(char *content,uint16_t size);
 void Net_SendMessage(const Net_SendMessageType *message);
 void Net_ReceiveMessage(Net_ResponseType *response);
 void Net_Init();
+
+#endif //STM32_HISTORYLINE_MESSAGE_H
